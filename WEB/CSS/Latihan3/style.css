@@ -1,0 +1,28 @@
+h1{
+	font-size: 100px;
+	color: #4567ab;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2{
+	font-size: 50px;
+	color: coral;
+	text-align: left;
+	text-decoration: overline;
+	text-transform: capitalize;
+}
+h3{
+	font-size: 25px;
+	color: rgb(25, 0, 150);
+	text-align: right; 
+	text-decoration: line-through;
+	text-transform: uppercase;
+}
+
+p{
+	text-align: center;
+	text-indent: 100px;
+	letter-spacing: 10px;
+	word-spacing: 2px;
+}
